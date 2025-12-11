@@ -1,3 +1,0 @@
-echo -n "0123456789ABCD" > yolo3.md
-chmod 257 yolo3.md
-touch -t 202502030528 yolo3.md
